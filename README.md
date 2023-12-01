@@ -16,4 +16,3 @@ Please feel free to reach out to me on LinkedIn! :rocket:
 ## :clapper: My tryHackMe Page
 
 - 💻:(https://tryhackme.com/p/TroWooW)
-<img src="https://tryhackme-badges.s3.amazonaws.com/TroWooW.png" alt="TryHackMe">
