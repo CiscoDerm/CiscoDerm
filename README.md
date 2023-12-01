@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<script src="https://tryhackme.com/badge/181490"></script>
 <!--
 **CiscoDerm/CiscoDerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
