@@ -10,9 +10,9 @@ Please feel free to reach out to me on LinkedIn! :rocket:
 ## :heavy_check_mark: Certifications
 
 - TryHackMe REDTEAM LearningPath :white_check_mark:
-- RustForNoobs ZerPointSecurity :white_check_mark:
+- RustForNoobs ZeroPointSecurity :white_check_mark:
 - Comptia Pentest+ :hourglass_flowing_sand:
 
 ## :clapper: My tryHackMe Page
 
-- 💻:(https://tryhackme.com/p/TroWooW)
+- 💻: https://tryhackme.com/p/TroWooW
