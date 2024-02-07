@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm <a href="https://github.com/hoaan1995" rel="nofollow">zxcr9999</a>!
+Hi, I'm <a href="https://github.com/CiscoDerm" rel="nofollow">CiscoDerm</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <!--<img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/hoaan1995/hoaan1995/"> </a>--> 
@@ -27,11 +27,11 @@ CONDI NEVER DIE!
 <hr>
 
 ```
-@zxcr9999
+@CiscoDerm
 -------------------------
-💻 I'm a freelancer
+💻 I'm a freelancer / student
 🌟 Main languages: Python, C
-🎵 Love chill music
+🎵 Love music
 ```
 <hr>
 
@@ -55,9 +55,7 @@ CONDI NEVER DIE!
 
 <p>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
