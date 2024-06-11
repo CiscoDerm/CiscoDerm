@@ -79,7 +79,7 @@ Hi, I'm <a href="https://github.com/CiscoDerm" rel="nofollow">CiscoDerm</a>!
 
 ## 🛠️ Technical Skills
 
-- **Languages**: HTML, CSS, JavaScript, Python, C++, C, Bash
+- **Languages**: HTML, CSS, JavaScript, Python, C++, C, Bash, Go, Rust
 - **Tools**: Burp Suite, Microsoft Office Suite, Visual Studio Code, Cisco
 - **Environments**: GitHub, GitLab, Docker
 - **Operating Systems**: Linux, Debian, Kali Linux, Alma Linux, Windows
