@@ -12,9 +12,6 @@ Hi, I'm <a href="https://github.com/CiscoDerm" rel="nofollow">CiscoDerm</a>!
 	</a>
 </p>
 
-Disclaimer:
-
-Repos. or Starred projects in this profile is for EDUCATIONAL PURPOSES ONLY, I'm not responsible for any bad uses from anyone ❌✋
 
 FLIP THE WORLD!
 
