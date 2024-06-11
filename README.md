@@ -21,9 +21,7 @@ Hi, I'm <a href="https://github.com/CiscoDerm" rel="nofollow">CiscoDerm</a>!
 
 ### 👨‍💻 Programming Languages
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%23025E8C.svg?logo=c&logoColor=white"></a>
-</p>
+
 <p>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
