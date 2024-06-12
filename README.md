@@ -73,7 +73,7 @@ Hi, I'm <a href="https://github.com/CiscoDerm" rel="nofollow">CiscoDerm</a>!
 ## 🏆 Certifications
 
 - **Red Teaming** - TryHackMe
-- **Rust for Noob** - TryHackMe
+- **Rust for Noob** 
 - **Advent of Cyber** - TryHackMe
 - **OWASP Top 10** - TryHackMe
 
