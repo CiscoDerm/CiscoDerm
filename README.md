@@ -27,10 +27,10 @@ I'm **[CiscoDerm](https://tryhackme.com/p/TroWooW)**, a Red/BlueTeamer & Securit
 
 - **Name**: cisco
 - **From**: France
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering.
--**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities**
+- **Bug Hunter** | **Security Researcher** | **Tool Developper**
+- i have experience in Cracking,Reverse Engineering,Bug Hunting,Forensics,Social Engineering.
+- **Reverse Engineering**, **Malware Analysis**
+- Improving knowledge in **Code Security** & **Bug Bounty**
 - I’m currently learning **everything** 
 
 </details>
@@ -43,13 +43,13 @@ I'm **[CiscoDerm](https://tryhackme.com/p/TroWooW)**, a Red/BlueTeamer & Securit
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & malware forensics.
+👉 Still Learning CyberSecurity.
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 Writing Some Useful Tools For Myself & Communities.
 
-👉 Building & Contributing To Open Source Projects
+👉 Building & Contributing To Open Source Projects.
 
-👉 Currently Learning mobile pentesting & web3 
+👉 Currently Learning Code Security & Reverse.
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
