@@ -121,6 +121,7 @@ Social Engin.    [████████████████████�
       <td align="center">
         <h3>🏆 Certifications</h3>
         <img width="60px" src="https://img.icons8.com/?size=100&id=h3j2l8UuNAEt&format=png&color=000000" alt="Rust"/>
+        <img width="60px" src="https://img.icons8.com/?size=100&id=39085&format=png&color=000000" alt="RedTeam"/>
         <br/>
         <h3>💻 Plateformes</h3>
         <img src="https://tryhackme-badges.s3.amazonaws.com/TroWooW.png" alt="Your Image Badge" />
