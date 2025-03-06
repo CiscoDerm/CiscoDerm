@@ -88,10 +88,11 @@ La **technologie** m'a toujours fasciné, et je me suis immergé dans l'univers 
   
 | Category | Technologies |
 |----------|-------------|
-| 🔒 **Security** | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-A90533?style=flat-square&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| 💻 **Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| 🧪 **Analysis** | ![Ghidra](https://img.shields.io/badge/-Ghidra-437291?style=flat-square&logo=ghidra&logoColor=white) ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-454545?style=flat-square&logo=ida&logoColor=white) |
-
+| 🔒 **Security** | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-A90533?style=flat-square&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4B275F?style=flat-square&logo=nmap&logoColor=white) ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white) ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-DB3552?style=flat-square&logo=john-the-ripper&logoColor=white) |
+| 💻 **Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| 🧪 **Analysis** | ![Ghidra](https://img.shields.io/badge/-Ghidra-437291?style=flat-square&logo=ghidra&logoColor=white) ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-454545?style=flat-square&logo=ida&logoColor=white) ![Volatility](https://img.shields.io/badge/-Volatility-123456?style=flat-square&logo=volatility&logoColor=white) ![Radare2](https://img.shields.io/badge/-Radare2-7D4698?style=flat-square&logo=radare2&logoColor=white) ![x64dbg](https://img.shields.io/badge/-x64dbg-3DA639?style=flat-square&logo=x64dbg&logoColor=white) |
+| 🌐 **Plateforme** | ![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC11?style=flat-square&logo=tryhackme&logoColor=white) ![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) ![VulnHub](https://img.shields.io/badge/-VulnHub-1C6EA4?style=flat-square&logo=vulnhub&logoColor=white) |
+| 📊 **Outils CTF** | ![CyberChef](https://img.shields.io/badge/-CyberChef-FF5733?style=flat-square&logo=cyberchef&logoColor=white) ![Hashcat](https://img.shields.io/badge/-Hashcat-00979D?style=flat-square&logo=hashcat&logoColor=white) ![Binwalk](https://img.shields.io/badge/-Binwalk-512BD4?style=flat-square&logo=binwalk&logoColor=white) |
 </div>
 
 ## <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> Progression & Compétences
@@ -120,13 +121,10 @@ Social Engin.    [████████████████████�
       </td>
       <td align="center">
         <h3>🏆 Certifications</h3>
-        <img width="60px" src="https://img.icons8.com/color/344/comptia-security-plus.png" alt="Security+"/>
-        <img width="60px" src="https://img.icons8.com/color/344/comptia-network-plus.png" alt="Network+"/>
+        <img width="60px" src="https://img.icons8.com/?size=100&id=h3j2l8UuNAEt&format=png&color=000000" alt="Rust"/>
         <br/>
         <h3>💻 Plateformes</h3>
-        <img src="https://www.hackthebox.com/badge/image/12345" alt="HackTheBox"/>
-        <br/>
-        <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" alt="TryHackMe" width="200"/>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/TroWooW.png" alt="Your Image Badge" />
       </td>
     </tr>
   </table>
