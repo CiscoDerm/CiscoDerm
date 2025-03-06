@@ -206,7 +206,6 @@ Social Engin.    [████████████████████�
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Réseaux & Sécurité Infrastructure
 
-<img align="right" width="30%" src="https://github.com/user-attachments/assets/8d7de145-f9c3-47a1-a98e-30d7dd5b2d3d">
 
 ```
 $ nmap -sS -sV -T4 --script=vuln target.com
