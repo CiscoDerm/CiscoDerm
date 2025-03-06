@@ -203,6 +203,179 @@ Social Engin.    [████████████████████�
   </tr>
 </table>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Réseaux & Sécurité Infrastructure
+
+<img align="right" width="30%" src="https://github.com/user-attachments/assets/8d7de145-f9c3-47a1-a98e-30d7dd5b2d3d">
+
+```
+$ nmap -sS -sV -T4 --script=vuln target.com
+Starting Nmap...
+Interesting ports on target.com:
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+```
+
+La **sécurité réseau** est la première ligne de défense contre les intrusions. Je me spécialise dans la détection et la protection contre les attaques réseau sophistiquées.
+
+<details>
+  <summary><b>🔧 Compétences réseau</b></summary>
+  <br>
+  
+  ```javascript
+  const network_security = {
+    firewall: ["pfSense", "Cisco ASA", "OPNsense", "iptables"],
+    ids_ips: ["Suricata", "Snort", "Security Onion", "Zeek"],
+    vpn: ["OpenVPN", "WireGuard", "IPsec"],
+    siem: ["ELK Stack", "Splunk", "Graylog"],
+    packet_analysis: ["Wireshark", "tcpdump", "BPF", "NetworkMiner"],
+    pentesting: ["Evilginx", "Bettercap", "Aircrack-ng", "Responder"],
+    segmentation: ["VLAN", "Network Zoning", "DMZ Implementation"]
+  };
+  ```
+</details>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Détection & Prévention</h3>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Configuration Firewall ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Déploiement IDS/IPS ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Analyse SIEM ⏳</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #e74c3c; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Zero Trust Architecture 🎯</span>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <h3>Attaque & Offensive</h3>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Man-in-the-Middle ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>WiFi Pentesting ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Lateral Movement ⏳</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #e74c3c; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>C2 Infrastructure 🎯</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+```
+Firewall Config    [████████████████████████████████⣀⣀]  90%
+IDS/IPS            [████████████████████████⣀⣀⣀⣀⣀⣀⣀]  70%
+Network Forensics  [██████████████████████⣀⣀⣀⣀⣀⣀⣀⣀]  65%
+Traffic Analysis   [████████████████████████████⣀⣀⣀⣀⣀]  80%
+Cloud Security     [████████████████⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀]  50%
+```
+
+## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30px"> Hardware Hacking
+
+<img align="right" width="35%" src="https://github.com/user-attachments/assets/77b2c3a5-d8fe-4e6b-bb68-33fcf1de9ec1">
+
+La frontière entre le **monde numérique** et **physique** m'intéresse particulièrement. Explorer les vulnérabilités des systèmes embarqués et IoT représente un défi passionnant et en constante évolution.
+
+<details>
+  <summary><b>🔌 Arsenal Hardware</b></summary>
+  <br>
+  
+  ```javascript
+  const hardware_hacking = {
+    devices: ["Flipper Zero", "Proxmark3", "HackRF One", "Pwnagotchi"],
+    microcontrollers: ["Arduino", "ESP32", "Raspberry Pi", "Teensy"],
+    interfaces: ["UART", "SPI", "I2C", "JTAG", "SWD"],
+    analysis: ["Logic Analyzer", "Oscilloscope", "Bus Pirate"],
+    techniques: ["Voltage Glitching", "Clock Manipulation", "Cold Boot", "Side-Channel"],
+    cibles_préférées: ["RFID/NFC", "Smart Cards", "Embedded Systems", "IoT Devices"]
+  };
+  ```
+</details>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Exploitation Hardware</h3>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>RFID Cloning ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Firmware Extraction ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Voltage Glitching ⏳</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #e74c3c; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Side-Channel Attacks 🎯</span>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <h3>IoT Security</h3>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>BLE Sniffing ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>ZigBee Hacking ✅</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>LoRaWAN Security ⏳</span>
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #e74c3c; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+          <span>Matter Protocol 🎯</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+```
+RFID/NFC Hacking  [████████████████████████████⣀⣀⣀⣀]  80%
+Firmware Analysis [████████████████████⣀⣀⣀⣀⣀⣀⣀⣀⣀]  60%
+Hardware Bypasses [██████████████████⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀]  55%
+IoT Security      [████████████████████████⣀⣀⣀⣀⣀⣀⣀]  70%
+Embedded Systems  [████████████████⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀]  50%
+```
+
+<div align="center">
+  <h3>🔥 Projets Hardware en cours 🔥</h3>
+  <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #ff4e50 0%, #f9d423 100%); border-radius: 30px; margin: 5px; color: white;">
+    WiFi Pineapple Custom Modules
+  </div>
+  <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #ff4e50 0%, #f9d423 100%); border-radius: 30px; margin: 5px; color: white;">
+    Badge RFID Security Framework
+  </div>
+  <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #ff4e50 0%, #f9d423 100%); border-radius: 30px; margin: 5px; color: white;">
+    Smart Lock Vulnerability Scanner
+  </div>
+</div>
+
 ## 📜 Citation
 
 <div align="center">
