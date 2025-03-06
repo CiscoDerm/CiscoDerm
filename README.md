@@ -94,14 +94,117 @@ La **technologie** m'a toujours fasciné, et je me suis immergé dans l'univers 
 
 </div>
 
-## <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> Progression
+## <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> Progression & Compétences
 
 <div align="center">
-  <img src="https://progress-bar.dev/75?title=Forensics&width=200&color=54aeff" alt="Forensics Progress"/>
-  <img src="https://progress-bar.dev/65?title=Reverse%20Engineering&width=200&color=54aeff" alt="RE Progress"/>
-  <img src="https://progress-bar.dev/80?title=Pentesting&width=200&color=54aeff" alt="Pentesting Progress"/>
-  <img src="https://progress-bar.dev/60?title=Malware%20Analysis&width=200&color=54aeff" alt="Malware Analysis Progress"/>
+  <h3>🔥 Mes niveaux de compétence 🔥</h3>
 </div>
+
+```
+Forensics        [██████████████████████████⣀⣀⣀⣀⣀]  75%
+Pentesting       [████████████████████████████████⣀⣀]  90%
+Red Teaming      [██████████████████████████████⣀⣀⣀]  85%
+Cryptography     [████████████████████⣀⣀⣀⣀⣀⣀⣀⣀⣀]  60%
+OSINT            [████████████████████████⣀⣀⣀⣀⣀⣀⣀]  70%
+Web Security     [████████████████████████████⣀⣀⣀⣀⣀]  80%
+Reverse Engin.   [██████████████████████⣀⣀⣀⣀⣀⣀⣀⣀]  65%
+Malware Analysis [████████████████████⣀⣀⣀⣀⣀⣀⣀⣀⣀]  60%
+Social Engin.    [████████████████████████████████⣀⣀]  90%
+```
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ciscoderm&repo=OSINT-toolkit&theme=radical" alt="OSINT Toolkit" />
+      </td>
+      <td align="center">
+        <h3>🏆 Certifications</h3>
+        <img width="60px" src="https://img.icons8.com/color/344/comptia-security-plus.png" alt="Security+"/>
+        <img width="60px" src="https://img.icons8.com/color/344/comptia-network-plus.png" alt="Network+"/>
+        <br/>
+        <h3>💻 Plateformes</h3>
+        <img src="https://www.hackthebox.com/badge/image/12345" alt="HackTheBox"/>
+        <br/>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" alt="TryHackMe" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>📈 Ma progression dans différents domaines</h3>
+  <br>
+</div>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Pentesting Web</h3>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>SQL Injection ✅</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>XSS ✅</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>CSRF ✅</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>SSRF ⏳</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>XXE ⏳</span>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>Reverse Engineering</h3>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>Désassemblage basique ✅</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #2ecc71; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>Analyse statique ✅</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #f39c12; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>Analyse dynamique ⏳</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #e74c3c; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>Unpacking avancé 🎯</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="background-color: #e74c3c; width: 15px; height: 15px; border-radius: 50%; margin-right: 5px;"></div>
+        <span>Anti-debug contournement 🎯</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <h3>🎖️ Jalons personnels atteints</h3>
+      <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
+        10+ CTF participations
+      </div>
+      <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
+        5+ vulnérabilités découvertes
+      </div>
+      <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
+        3+ outils développés
+      </div>
+      <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
+        Top 10% TryHackMe
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📜 Citation
 
