@@ -188,16 +188,16 @@ Social Engin.    [████████████████████�
       <br/>
       <h3>🎖️ Jalons personnels atteints</h3>
       <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
-        10+ CTF participations
+        4+ CTF participations
       </div>
       <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
-        5+ vulnérabilités découvertes
+        3+ vulnérabilités découvertes
       </div>
       <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
         3+ outils développés
       </div>
       <div style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; margin: 5px; color: white;">
-        Top 10% TryHackMe
+        Top 2% TryHackMe
       </div>
     </td>
   </tr>
