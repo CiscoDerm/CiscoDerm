@@ -10,8 +10,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hello World <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35px">
 
-## 📜 Citation
-
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Cyber Joke" />
 </div>
