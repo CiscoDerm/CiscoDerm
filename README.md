@@ -11,7 +11,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hello World <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35px">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-CyberSecurity_Specialist-red?style=for-the-badge&logo=shield" alt="Role Badge"/>
+  <img src="https://img.shields.io/badge/Role-CyberSecurity_Student-red?style=for-the-badge&logo=shield" alt="Role Badge"/>
   <img src="https://img.shields.io/badge/Focus-Red_Team_|_Blue_Team-blue?style=for-the-badge&logo=hackaday" alt="Focus Badge"/>
   <img src="https://img.shields.io/badge/Location-France-white?style=for-the-badge&logo=france" alt="Location Badge"/>
 </div>
