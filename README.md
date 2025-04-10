@@ -6,18 +6,4 @@
   </a>
 </div>
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hello World <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35px">
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Cyber Joke" />
-</div>
-
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" />
-</div>
